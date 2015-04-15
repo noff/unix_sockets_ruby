@@ -1,6 +1,6 @@
 require 'socket'
 
-socket_file_name = '/Users/noff/Developer/sockets/demo.socket'
+socket_file_name = './demo.socket'
 
 client = UNIXSocket.new socket_file_name
 

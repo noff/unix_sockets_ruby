@@ -1,6 +1,6 @@
 require 'socket'
 
-socket_file_name = '/Users/noff/Developer/sockets/demo.socket'
+socket_file_name = './demo.socket'
 
 File.unlink socket_file_name
 server = UNIXServer.new socket_file_name

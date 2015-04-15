@@ -28,6 +28,7 @@ UNIXServer with threads
 ```
 $ ruby unix_server_thread.rb
 $ ruby unix_client.rb
+$ php unix_client.php
 ```
 
 
