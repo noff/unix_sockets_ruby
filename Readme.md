@@ -1,13 +1,13 @@
 PIPE
 ======
 
-Nameless pipe
+Nameless pipe:
 
 ```
 ls -la | grep client
 ```
 
-Named pipe
+Named pipe:
 
 ```
 mkfifo pipe
