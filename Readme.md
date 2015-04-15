@@ -1,3 +1,12 @@
+FIFO
+======
+
+```
+mkfifo pipe
+echo 'hello, world' > pipe
+cat pipe
+```
+
 TCPSocket
 ======
 
