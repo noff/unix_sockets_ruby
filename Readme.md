@@ -1,5 +1,13 @@
-FIFO
+PIPE
 ======
+
+Nameless pipe
+
+```
+ls -la | grep client
+```
+
+Named pipe
 
 ```
 mkfifo pipe
