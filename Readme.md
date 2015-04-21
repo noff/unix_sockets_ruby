@@ -65,3 +65,11 @@ $ ruby speed_unix_server_thread.rb
 $ ruby speed_unix_client.rb
 -> 0.16s
 ```
+
+UNIXSocket Request + Response
+======
+
+```
+$ ruby unix_server_thread_params.rb
+$ ruby unix_client_params.rb noff
+```
